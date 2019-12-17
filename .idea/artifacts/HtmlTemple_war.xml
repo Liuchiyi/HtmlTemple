@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HtmlTemple:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="HtmlTemple.war">
+      <element id="artifact" artifact-name="HtmlTemple:war exploded" />
+    </root>
+  </artifact>
+</component>
